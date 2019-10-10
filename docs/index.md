@@ -52,4 +52,4 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 2.      | Nothing | John Cena | Potato Salad |
 
 ## How effective this method is:
-**TODO**
+**TODO 500 words**
