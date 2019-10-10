@@ -11,7 +11,7 @@ The Project makes use of VRTK and will have various other assets referenced here
     - [x] create 2 unique models of your own to put in the space (2/2)
     - [ ] two of the models should react when a user touches them (e.g. pressing a button on a a drink machine could vend a can, or a monitor could turn on, or coffee could be brewed, or a PC could boot up)
     - [x] at least one ambient sound or piece of music (Air conditioner noise)
-    - [x] two local light sources (1/2)
+    - [x] two local light sources (2/2 laptop + spotlight)
   
 - [ ] Omar
     - [ ] at least 10 unique models (9 left)
