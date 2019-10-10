@@ -34,9 +34,9 @@ Below is a table of all the sources we use for codes, models, and audios.
 
 ### Model List
 <p float="left">
-  <img src="https://raw.githubusercontent.com/Jtrinh3/CS428---Project-1---Animal-Farm/master/docs/3Dmodels.png" width="500">
-  <img src="https://media.githubusercontent.com/media/Jtrinh3/CS428---Project-1---Animal-Farm/master/docs/3dmodels2.png" width="250">
-  <img src="https://media.githubusercontent.com/media/Jtrinh3/CS428---Project-1---Animal-Farm/master/docs/3Dmodels3.jpg" width="100">
+  <img src="https://fsmedia.imgix.net/dc/36/59/25/4614/4153/b16b/b5e5d0ec1385/yqxqvpuvago31png.png?auto=format%2Ccompress&dpr=2&w=650" width="500">
+  <img src="https://fsmedia.imgix.net/dc/36/59/25/4614/4153/b16b/b5e5d0ec1385/yqxqvpuvago31png.png?auto=format%2Ccompress&dpr=2&w=650" width="250">
+  <img src="https://fsmedia.imgix.net/dc/36/59/25/4614/4153/b16b/b5e5d0ec1385/yqxqvpuvago31png.png?auto=format%2Ccompress&dpr=2&w=650" width="100">
 </p>
 
 | Number  | Description & Link |
