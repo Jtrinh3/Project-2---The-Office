@@ -46,15 +46,16 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 1.      | Spot Light - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
 | 2.      | Metal Beam - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
 | 3.      | Boombox - Made by James T. |
-| 4.      | Le Grande Red Moustachio Sculpture - Made by James T. |
+| 4.      | Le Grande Red Moustachio Sculpture - Made by James Trinh |
 
 
 ### Audio Used
 
 | Number  | File Name                          | Description & Link |
 | --------| ---------------------------------- | ------------------ |
-| 1.      | AC ambient loop.mp3 | Spoke Person voice by James T. | Background ambient noise - [freesound.org](https://freesound.org/people/junkfood2121/sounds/242042/) |
-| 2.      | Nothing | John Cena | Potato Salad |
+| 1.      | AC ambient loop.mp3 | Background ambient noise - [freesound.org](https://freesound.org/people/junkfood2121/sounds/242042/) |
+| 2.      | barradeen-you-are-not-alone.mp3 | Boombox Music - [free-stock-music.com][(https://www.free-stock-music.com/barradeen-you-are-not-alone.html) |
+| ∞.      | Nothing **TODO** | John Cena | Potato Salad |
 
 ## How effective this method is:
 **TODO 500 words**
