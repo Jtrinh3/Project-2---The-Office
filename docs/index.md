@@ -26,11 +26,13 @@ Go to [the website above](https://github.com/Jtrinh3/Project-2---The-Office/) an
 ## Source Materials
 Below is a table of all the sources we use for codes, models, and audios.
 
-### Source Codes
+### Source Codes & Guides used
 
 | Description  | Link                                                                           |
 | ------------ | ------------------------------------------------------------------------------ |
 | Transform    | [Unity Documentation](https://docs.unity3d.com/ScriptReference/Transform.html) |
+| Basic Grabs | [VRTK's Youtube Channel](https://www.youtube.com/watch?v=KPJBFpl2bPI) |
+| Interactions | [VRTK's Youtube Channel](https://www.youtube.com/watch?v=WnM-VrIdyMM) |
 
 ### Model List
 <p float="left">
