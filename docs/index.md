@@ -56,7 +56,7 @@ Below is a table of all the sources we use for codes, models, and audios.
 | Number  | File Name                          | Description & Link |
 | --------| ---------------------------------- | ------------------ |
 | 1.      | AC ambient loop.mp3 | Background ambient noise - [freesound.org](https://freesound.org/people/junkfood2121/sounds/242042/) |
-| 2.      | barradeen-you-are-not-alone.mp3 | Boombox Music - [free-stock-music.com][(https://www.free-stock-music.com/barradeen-you-are-not-alone.html) |
+| 2.      | barradeen-you-are-not-alone.mp3 | Boombox Music - [free-stock-music.com](https://www.free-stock-music.com/barradeen-you-are-not-alone.html) |
 | ∞.      | Nothing **TODO** | John Cena | Potato Salad |
 
 ## How effective this method is:
