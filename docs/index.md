@@ -34,6 +34,7 @@ Below is a table of all the sources we use for codes, models, and audios.
 | Transform    | [Unity Documentation](https://docs.unity3d.com/ScriptReference/Transform.html) |
 | Basic Grabs | [VRTK's Youtube Channel](https://www.youtube.com/watch?v=KPJBFpl2bPI) |
 | Interactions | [VRTK's Youtube Channel](https://www.youtube.com/watch?v=WnM-VrIdyMM) |
+| Audio Scripting | [Unity Documentation](https://docs.unity3d.com/ScriptReference/AudioSource.html) |
 
 ### Model List
 <p float="left">
