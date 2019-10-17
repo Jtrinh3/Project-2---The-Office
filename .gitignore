@@ -47,5 +47,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-# VRTK
-Assets\VRTK
+# VRTK ignorer
+# Assets\VRTK

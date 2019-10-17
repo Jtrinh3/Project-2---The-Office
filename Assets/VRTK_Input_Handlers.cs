@@ -5,8 +5,6 @@ using VRTK;
 
 public class VRTK_Input_Handlers : MonoBehaviour
 {
-    public bool boombox_status = false;
-    AudioSource boomboxAudioData = GameObject.Find("Boombox Interactable").GetComponent<AudioSource>();
 
     // Start is called before the first frame update
     void Start()
@@ -20,18 +18,19 @@ public class VRTK_Input_Handlers : MonoBehaviour
 
     }
 
+    public bool boombox_playing = false;
     public void toggle_boombox()
     {
-
-        if(boombox_status == false) //music originally off
+        AudioSource boombox = GetComponent<AudioSource>();
+        if(boombox_playing == false) //music originally off
         {
-            boomboxAudioData.Play(); //turnt
-            boombox_status = true;
+            boombox.Play();
+            boombox_playing = true;
         }
         else //music was on
         {
-            boomboxAudioData.Pause(); //turnt down (for what!?)
-            boombox_status = false;
+            boombox.Pause(); //turnt down (for what!?)
+            boombox_playing = false;
         }
     }
 
