@@ -59,7 +59,8 @@ Below is a table of all the sources we use for codes, models, and audios.
 | --------| ---------------------------------- | ------------------ |
 | 1.      | AC ambient loop.mp3 | Background ambient noise - [freesound.org](https://freesound.org/people/junkfood2121/sounds/242042/) |
 | 2.      | barradeen-you-are-not-alone.mp3 | Boombox Music - [free-stock-music.com](https://www.free-stock-music.com/barradeen-you-are-not-alone.html) |
-| ∞.      | Nothing **TODO** | John Cena | Potato Salad |
+| 3.      | Who Likes to Party.mp3 |  Boombox Music - [incompetech.com](https://incompetech.filmmusic.io/song/4627-who-likes-to-party/) |
+| 4.      | modern-jazz-samba-by-kevin-macleod.mp3 | Boombox Music - ["Modern Jazz Samba" by Kevin MacLeod](https://filmmusic.io)|
 
 ## How effective this method is:
 **TODO 500 words**
