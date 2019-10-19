@@ -55,7 +55,26 @@ Below is a table of all the sources we use for codes, models, and audios.
 | 2.      | Metal Beam - [Unity Asset Store](https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453) |
 | 3.      | Boombox - Made by James T. |
 | 4.      | Le Grande Red Moustachio Sculpture - Made by James Trinh |
-
+| 5.      | Kirby - [3D Warehouse](https://3dwarehouse.sketchup.com/model/90ad4aaab761cf36b05dd68c192eab4a/Kirby) |
+| 6.      | One Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
+| 7.      | Two Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
+| 8.      | Three Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
+| 9.      | Grandpa - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
+| 10.      | Four Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
+| 11.      | Five Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
+| 12.      | Six Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
+| 13.      | Seven Star Ball - [3D Warehouse](https://3dwarehouse.sketchup.com/model/ucdb75f3f-3a3f-4fe2-b8c3-b44659688b44/DragonBalls) |
+| 14.      | Box - [3D Warehouse](https://3dwarehouse.sketchup.com/model/8ae844c2d0ddbf3452366c3503f802d0/box-a) |
+| 15.      | Solid Snake - [3D Warehouse](https://3dwarehouse.sketchup.com/model/df05df84e071c379f16675b77b860cd6/Solid-Snake) |
+| 16.      | Death Star - [3D Warehouse](https://3dwarehouse.sketchup.com/model/8f9066c4d0b98407ca292cf40513efe4/Death-Star) |
+| 17.      | Piggy Bank - [3D Warehouse](https://3dwarehouse.sketchup.com/model/c3281ec2d23523e1c40386bdd72f9a0/Piggy-Bank) |
+| 18.      | Desk - Made by Omar A. |
+| 19.      | Bird Cage - Made by Omar A. |
+| 20.      | Paperclip - Made by Omar A. |
+| 21.      | Pencil - Made by Omar A. |
+| 22.      | Sword - Made by Omar A. |
+| 23.      | Shield - Made by Omar A. |
+| 24.      |  - []() |
 
 ### Audio Used
 
