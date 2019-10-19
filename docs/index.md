@@ -1,7 +1,10 @@
 # Link Dump for sources (remove when dealt with)
 low poly office stuff - https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438  
-lights - https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453
-VR stuff - https://github.com/ValveSoftware/IndexHardware
+lights - https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453  
+VR stuff - https://github.com/ValveSoftware/IndexHardware  
+Keyboard - https://www.turbosquid.com/FullPreview/Index.cfm/ID/1383482
+Dwarf & Knight - https://www.thingiverse.com/thing:1244599
+
 
 # Project 2 Summary
 Blah Blah
