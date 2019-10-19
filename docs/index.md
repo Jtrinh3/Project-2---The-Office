@@ -4,8 +4,10 @@ lights - https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-s
 VR stuff - https://github.com/ValveSoftware/IndexHardware  
 Keyboard - https://www.turbosquid.com/FullPreview/Index.cfm/ID/1383482
 Dwarf & Knight - https://www.thingiverse.com/thing:1244599
-Particle guide - https://insights.nimblechapps.com/unity/implementing-confetti-coming-out-of-an-object-in-unity
-
+20 sided Dice - https://sketchfab.com/3d-models/d20-dice-full-3d-free-2587a1630a3a4c0993032675a25d72b9
+Minecraft Diamond Sword - https://www.turbosquid.com/3d-models/diamond-sword-max-free/787410
+Valve controller Left - https://sketchfab.com/3d-models/valve-index-controller-left-24cc19b6c68d4cdba24e8424a1321658
+Vive Headset - https://sketchfab.com/3d-models/htc-vive-4cee0970fe60444ead77d41fbb052a33
 
 # Project 2 Summary
 Blah Blah
