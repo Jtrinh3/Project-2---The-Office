@@ -4,6 +4,7 @@ lights - https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-s
 VR stuff - https://github.com/ValveSoftware/IndexHardware  
 Keyboard - https://www.turbosquid.com/FullPreview/Index.cfm/ID/1383482
 Dwarf & Knight - https://www.thingiverse.com/thing:1244599
+Particle guide - https://insights.nimblechapps.com/unity/implementing-confetti-coming-out-of-an-object-in-unity
 
 
 # Project 2 Summary
