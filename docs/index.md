@@ -1,6 +1,7 @@
 # Link Dump for sources (remove when dealt with)
 low poly office stuff - https://assetstore.unity.com/packages/3d/environments/low-poly-office-props-lite-131438  
 lights - https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453
+VR stuff - https://github.com/ValveSoftware/IndexHardware
 
 # Project 2 Summary
 Blah Blah
